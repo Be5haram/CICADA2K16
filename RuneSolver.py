@@ -362,7 +362,7 @@ elif decryptmode == "4":
         countglyphs()
 
 else:
-        print ("UYUUY")
+        print ("...")
 
         
         
